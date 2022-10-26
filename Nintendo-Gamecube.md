@@ -1,6 +1,6 @@
 ---
 author: nkanagno
-title: Nintento Gamecube
+title: Nintendo Gamecube
 image_url: /images/Nintendo-Gamecube.jpg
 caption: 'Το Nintendo GameCube είναι η κονσόλα έκτης γενιάς της Nintendo και κυκλοφόρησε στην Ιαπωνία τον Σεπτέμβρη του 2001 
 και ύστερα στην Ευρώπη το Μάιο του 2002. Είναι η πρώτη παιχνιδομηχανή της Nintendo που χρησιμοποιεί για αποθηκευτικό μέσο για τα παιχνίδια της mini-DVD αντί για κασέτες, 
