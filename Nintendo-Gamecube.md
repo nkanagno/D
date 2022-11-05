@@ -12,7 +12,7 @@ license_url: 'https://www.piqsels.com/en/public-domain-photo-focjl'
 license_text: piqsels
 categories:
   - Κονσόλες για Βιντεοπαιχνίδια
-  - Προιόντα διάσημων εταιριών
+  - Προιόντα εταιριών
 tags:
  - Κονσόλες για Βιντεοπαιχνίδια
  - Nintendo Κονσόλες
