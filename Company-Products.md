@@ -1,3 +1,4 @@
+---
 layout: timeline 
 title: Προιόντα εταιρειών
 image_url: /images/Nintendo-Gamecube.jpg
