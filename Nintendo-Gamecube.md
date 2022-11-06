@@ -12,7 +12,7 @@ caption: 'Το Nintendo GameCube είναι η κονσόλα έκτης γεν�
 license_url: 'https://www.piqsels.com/en/public-domain-photo-focjl'
 license_text: piqsels
 categories:
-  - Κονσόλες για Βιντεοπαιχνίδια
+  - Συσκευές ψυχαγωγίας
   - Προιόντα εταιριών
 tags:
  - Κονσόλες για Βιντεοπαιχνίδια
