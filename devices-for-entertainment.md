@@ -1,23 +1,13 @@
 ---
 layout: timeline 
-title: 
-image_url: /images/spacewar-players.jpg
-caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με γραφική διεπαφή διαδρομή, με διαφορετικά είδη γραφικών, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
+title: Συσκευές ψυχαγωγίας
+image_url: /images/Nintendo-Gamecube.jpg
+caption: "Οι συσκευές, είναι εξαρτήματα τα οποία εκπληρώνουν ανάγκες. Μία φυσική ανάγκη των ανθρώπων, είναι η ψυχαγωγία, με αποτέλεσμα να δημιουργηθούν συσκεύες και σε αυτόν τον τομέα, που έχουν ως βασικό σκοπό την εκπλήρωση της συγκεκριμένης ανάγκης. Πιο συγκεκριμένα, οι συσκευές αυτές, διαθέτουν εύθυμες δραστηριότητες, οι οποίες βοηθάνε τους ανθρώπους να χαλαρώσουν και να περάσουν δημιουργικά τον χρόνο τους."
 events:
-  - tennis-for-two 
-  - spacewar-players
+  - Nintendo-Gamecube
   - spacewar-gamepad
   - magnavox-odyssey
-  - lunar-lander
-  - pong
-  - moonlander
-  - breakout
-  - space-invaders
-  - adventure-videogame
-  - atari-adventure
-  - rockys-boots
-  - pop
-  - math-blaster
-  - minecraft-end-user
-  - Tetris
+  - atari-2600
+  - vpl-virtual-reality
+  - kinect
 ---
