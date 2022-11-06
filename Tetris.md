@@ -8,7 +8,7 @@ license_url: 'https://pixabay.com/photos/tetris-lamp-deco-multicoloured-2973518/
 license_text: pixabay
 categories:
   - Eφαρμογές επίλυσης προβλημάτων
-  - Βιντεοπαιχνίδια
+  - περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)
 tags:
  - videogames
  - problem solving applications
