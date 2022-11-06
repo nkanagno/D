@@ -1,13 +1,12 @@
 ---
 layout: timeline 
-title: Arcade
+title:  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)
 image_url: /images/Tetris.jpg
-caption: 
+caption: "Η περιορισμένη τεχνητή νοημοσύνη, γνωστή ως weak AI (αδύναμη τεχνητή νοημοσύνη), περιλαμβάνει μηχανές οι οποίες πραγματοποιούν περιορισμένες ενέργειες, δηλαδή δεν έχει την δυνατότητα "σκέψης"."
 events:
   - Tetris
   - pong
   - breakout
   - space-invaders
-  - atari-2600
-  - Magnavox-Odyssey
+  - math-blaster
 ---
