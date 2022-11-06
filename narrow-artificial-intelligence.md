@@ -9,4 +9,5 @@ events:
   - breakout
   - space-invaders
   - math-blaster
+  - minecraft-end-user
 ---
