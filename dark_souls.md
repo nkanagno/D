@@ -2,7 +2,7 @@
 author: Νικόλας Αναγνωστόπουλος
 title: Dark souls
 year: 2011
-image_url: /images/dark_souls.jpg
+image_url: /My_pics/dark_souls.jpg
 caption: Το βιντεοπαιχνίδι τρίτου προσώπου όψης, Dark souls σύμφωνα με την ιστοσελίδα gamesradar και τα βραβεία golden joystick το 2014 χαρακτηρίστηκε ως ένα από τα καλύτερα και πιο διασκεδαστικά βιντεοπαιχνίδια όλων των εποχών λόγο του πολύ υψηλού επιπέδου δυσκολίας του. Πιο συγκεκριμένα, αυτό που ξεχωρίζει το Dark souls από τα άλλα βιντεοπαιχνίδια είναι το γεγονός ότι δε προσφέρει στους χρήστες του, την επιλογή να αλλάξουν το επίπεδο της δυσκολίας, αλλά είναι αναγκασμένοι όλοι οι χρήστες του να παίξουν από την αρχή στο ίδιο επίπεδο.
 license_url: "https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Dark-Souls-Remastered-1325790.html" 
 license_text: nintendo 
